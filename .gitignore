@@ -1,0 +1,10 @@
+# ignore all files
+/references/
+/data/
+/python-data/
+/.ipynb_checkpoints/
+.DS_Store
+
+# ignore the ipython checkpoints
+code/.ipynb_checkpoints/xpca-checkpoint.ipynb
+
